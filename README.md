@@ -1,4 +1,4 @@
-** HelloWorld TDD
+## HelloWorld TDD
 
 This project is a simple starter project, doing HelloWorld in a TDD style.
 
